@@ -1,0 +1,16 @@
+# 所有运行输入、客户数据和浏览器状态必须留在本机私有目录。
+work/
+runs/
+private/
+outputs/
+node_modules/
+.env*
+*.log
+events.jsonl
+subscriber-source.json
+customer-details.json
+import-progress.json
+*DevToolsActivePort*
+chrome-automation-profile/
+Chrome User Data/
+*.zip
